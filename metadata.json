@@ -1,0 +1,7 @@
+{
+  "name": " Vyom Try-On",
+  "description": "AI-powered virtual try-on e-commerce platform allowing users to visualize clothing on themselves using Generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
